@@ -1,0 +1,15 @@
+//From w3 schools http://www.w3schools.com/js/exercise.asp?filename=exercise_objects3
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo">Display the result here.</p>
+
+<script>
+// Create the object here
+//Create an object called person with name = John, age = 50.
+//Then, access the object to display "John is 50 years old".
+</script>
+
+</body>
+</html>
